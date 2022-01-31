@@ -2,7 +2,7 @@
   "name": "dms-theme-demo",
   "version": "0.1.0",
   "private": false,
-  "homepage": "http://danshin.ms/dms-theme-demo/",
+  "homepage": "https://mdanshin.danshin.ms/dms-theme-demo",
   "dependencies": {
     "@mui/icons-material": "^5.3.1",
     "@mui/material": "^5.3.1",
